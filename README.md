@@ -9,5 +9,6 @@ Para esse projeto de Data Science as seguintes etapas foram seguidas:
 * Pré-processamento dos dados
 * Modelos de Machine Learning
 * Avaliação do modelo
+* Tratamento e previsão nos dados de teste
 
 **Aqui está o link do projeto:** https://github.com/JosenildoJunior/Competicao_ML/blob/main/11%C2%AA_CompeticaoFLAI.ipynb
